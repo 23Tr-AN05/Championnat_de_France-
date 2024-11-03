@@ -49,9 +49,26 @@
   <hr>
  <h1 id="h2" style="border: 1px solid black; padding: 10px;"><b>Championnat de france</b></h1>
  <p id="p2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Avant de commencer, ayant un peu de culture sur le language d'aviron. 
- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Il existe des différents catégories et type de bateaux aux championnatx ou aux <i>regatas</i>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Il existe des différents catégories d'âge et type de bateaux aux championnatx ou aux <i>regatas</i>.
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commonçons par quelques cathégories d'âge:
+ <ul>
+    <li><p id="p2">J14: Catégorie des jeunes de 14 ans.</p> </li>
+    <li><p id="p2">J16: Catégorie des jeunes de 16 ans.</p> </li>
+    <li><p id="p2">J18: Catégorie des jeunes de 18 ans. </p></li>
+ </ul>
+ <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Et quelques types de bateaux:
+ <ul>
+ <li><p id="p2">Skiff: c'est le bateau pour les sportif solo</p></li>
+ <li><p id="p2">Bateau à 4: comme son nom l'indique, c'est un bateau avec 4 sportifs</p></li>
+ <li><p id="p2">Bateau à : de la même manière, c'est un bateau avec 8 sportifs</p></li>
+ </ul>
+ <br> Maintenant, je vous propose de regarder un extrait de regate, 
 
-  
+ <video src="images/1.mp4" width="700" controls/>
+
+ <hr>
+  <h1 id="h2" style="border: 1px solid black; padding: 10px;"><b>Aviron Touousain</b></h1>
+  <img src=images/2.png>
 
 
 
