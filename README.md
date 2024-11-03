@@ -62,13 +62,18 @@
  <li><p id="p2">Bateau à 4: comme son nom l'indique, c'est un bateau avec 4 sportifs</p></li>
  <li><p id="p2">Bateau à : de la même manière, c'est un bateau avec 8 sportifs</p></li>
  </ul>
- <br> Maintenant, je vous propose de regarder un extrait de regate, 
+ <br> Maintenant, je vous propose de regarder un extrait de regate, </p>
 
  <video src="images/1.mp4" width="700" controls/>
 
  <hr>
   <h1 id="h2" style="border: 1px solid black; padding: 10px;"><b>Aviron Touousain</b></h1>
   <img src=images/2.png>
+  <p id="p2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aviron Toulousain, est un club d'aviron à Tolouse, à côté du State de Touloue. La particularité de ce club, déjà c'est le club de on frère, et la deuxième raison de mon choix, leur niveau élevé, en club, ils étaient champion de France de Championnat de France l'aviron en 2023, et vise-champion de celui de 2024. 
+  <br><br>Ainsi, je vous laisse découvrire certaines des images qui sont juste en-dessous, et je vous propose d'aller voir leur site internet, et découvrire d'avantage leur galerie, <a href="">ici</a></p>
+  <img src=images/3.png>
+  <img src=images/8.png>
+
 
 
 
