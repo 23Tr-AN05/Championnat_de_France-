@@ -60,7 +60,7 @@
  <ul>
  <li><p id="p2">Skiff: c'est le bateau pour les sportif solo</p></li>
  <li><p id="p2">Bateau à 4: comme son nom l'indique, c'est un bateau avec 4 sportifs</p></li>
- <li><p id="p2">Bateau à : de la même manière, c'est un bateau avec 8 sportifs</p></li>
+ <li><p id="p2">Bateau à 8: de la même manière, c'est un bateau avec 8 sportifs</p></li>
  </ul>
  <br> <p id="p2">Maintenant, je vous propose de regarder un extrait de regate, </p>
 
