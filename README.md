@@ -65,9 +65,11 @@
  <br> <p id="p2">Maintenant, je vous propose de regarder un extrait de regate, vous pouvez découvrire d'avanrtage <a href="https://www.youtube.com/channel/UCJPH_GJsWYJhQhwg2JHjT5A">ici</a> </p>
 
  <video src="images/1.mp4" width="700" controls=""/>
-
+ </body>
+<body>
  <hr>
   <h1 id="h2" style="border: 1px solid black; padding: 10px;"><b>Aviron Touousain</b></h1></p>
+  
   <img src=images/2.png>
   <p id="p2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aviron Toulousain, est un club d'aviron à Tolouse, à côté du State de Touloue. La particularité de ce club, déjà c'est le club de on frère, et la deuxième raison de mon choix, leur niveau élevé, en club, ils étaient champion de France de Championnat de France l'aviron en 2023, et vise-champion de celui de 2024 (évidement pas dans tout les épreuves, mais oui pour les epreuves que mon frères a participé). 
   <br><br>Ainsi, je vous laisse découvrire certaines des images qui sont juste en-dessous, et je vous propose d'aller voir leur site internet, et découvrire d'avantage leur galerie, <a href="https://aviron-toulousain.assoconnect.com/galleries/48391-championnats-de-france-bateaux-courts-2024?header=%2Fpage%2F2744098-cazaubon-bateaux-courts-2024">ici</a></p>
