@@ -64,9 +64,9 @@
  <li><p id="p2">Bateau à 4: comme son nom l'indique, c'est un bateau avec 4 sportifs</p></li>
  <li><p id="p2">Bateau à 8: de la même manière, c'est un bateau avec 8 sportifs</p></li>
  </ul>
- <br> <p id="p2">Maintenant, je vous propose de regarder un extrait de regate, vous pouvez découvrire d'avanrtage <a href="https://www.youtube.com/channel/UCJPH_GJsWYJhQhwg2JHjT5A">ici</a> </p>
+ <br> <p id="p2">Maintenant, je vous propose de voir un club d'aviron avant de voir un regate, vous pouvez découvrire d'avantage des vidéos de regates <a href="https://www.youtube.com/channel/UCJPH_GJsWYJhQhwg2JHjT5A">ici</a> </p>
 
- <video src="images/1.mp4" width="700" controls=""/>
+ 
  </body>
  
  <hr>
@@ -78,8 +78,9 @@
   <img src=images/3.png>
   <img src=images/8.png>
 
-
-
+ <hr>
+ <video src="images/1.mp4" width="700" controls=""/>
+ <hr>
 
 
 
