@@ -36,7 +36,7 @@
   </div>
   <div id="3" class="w3-container w3-border city" style="display:none">
   <p id="p2">Pour avoir d'information vous pouver consulter <a href="https://www.snenghien.com/histoire-et-technique-de-laviron/">ici (S.N.E)</a> ou <a href="https://fr.wikipedia.org/wiki/Aviron_(sport)">ici (wikipédia)</a>.<br> Vous pouvez également visiter le site internet de <a href="https://www.ffaviron.fr/ffa/ambitions/notre-histoire">Fédération Française d'Aviron (FFA)</a></p>
-   <embed type="application/pdf" src="images\1.pdf" width="800" height="1000" />
+   <embed type="application/pdf" src="images\1.pdf" width="800" height="500" />
   </div>
 
 
