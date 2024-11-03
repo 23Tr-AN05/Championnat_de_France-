@@ -1,0 +1,13 @@
+body {
+  font-family : Arial, Helvetica, sans-serif ;
+  line-height : 150% ;
+  color : black ;
+  background-color : #00FFFF ;
+  background-size: cover ;
+}
+
+#h1 {
+  font-size: 60px;
+  text-align: center
+  color : #FF0000 ; 
+}
