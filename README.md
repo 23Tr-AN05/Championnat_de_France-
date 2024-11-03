@@ -64,7 +64,7 @@
  </ul>
  <br> <p id="p2">Maintenant, je vous propose de regarder un extrait de regate, </p>
 
- <video src="images/1.mp4" width="700" controls/>
+ <video src="images/1.mp4" width="700" controls=""/>
 
  <hr>
   <h1 id="h2" style="border: 1px solid black; padding: 10px;"><b>Aviron Touousain</b></h1>
