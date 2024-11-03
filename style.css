@@ -8,6 +8,27 @@ body {
 
 #h1 {
   font-size: 60px;
-  text-align: center
+  text-align: center;
   color : #FF0000 ; 
 }
+ #p1{
+   font-size: 30px;
+   text-align:left;
+   color: black;
+}
+
+ #p2
+   font-size: 20px;
+   text-align:left;
+   color: black;
+}
+
+ #p3{
+   font-size: 15px;
+   text-align:left;
+   color: black;
+}
+
+
+
+   
